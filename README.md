@@ -17,3 +17,9 @@ A real-time chatroom web application built using Java 17, Spring Boot, and WebSo
 - **Real-Time Communication**: Spring WebSocket, STOMP protocol
 - **Build Tool**: Maven
 
+
+## Usage 
+- **Login**: Enter your desired username to join the chatroom.
+- **Chat**: Send messages to other users in real-time. You will be notified when new users join or leave the chat.
+
+## running on port no : 8080 
